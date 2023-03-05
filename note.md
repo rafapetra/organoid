@@ -18,3 +18,5 @@ grid
 * If door: Generate new room. If shiny thing: generate or present item that boosts stats. Apply changeState();. If they choose object they then must choose door.
 3. Combat encounter. Run const robot1 = smallRobotEnemy;
 * Do combat. Pseudo RNG. Robot must hit character 20 times. Player must hit robot 2 times. On screen messages.
+
+Final goal is to find the Organoid Intelligence and either reprogram it or shut it down.
