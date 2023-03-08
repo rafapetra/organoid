@@ -1,3 +1,22 @@
 body {
-  background-color: grey;
+  background-color: black;
+  background-image: url("../assets/images/organoid.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(255, 255, 255, 0.9);
+}
+
+.container {
+  background-color: rgba(37, 41, 42, 0.6);
+  width: 50%;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.roomDescription {
+}
+
+.game {
+  margin-top: 20px;
 }
